@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/01-requirements/fds/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/01-requirements/point-schedule/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/02-architecture/data-flow/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/02-architecture/network/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/03-api/openapi/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;твой-username&gt;.github.io/bms-pet-project/04-commissioning/test-plan/</loc>
+         <lastmod>2026-11-22</lastmod>
+    </url>
+</urlset>
